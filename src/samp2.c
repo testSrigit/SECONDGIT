@@ -1,4 +1,5 @@
-int add(int a,int b)
+int addWindow(int a,int b)
 {
+
 	return a+b;
 }
