@@ -15,3 +15,8 @@ int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
+int display()
+{
+	printf("This is the second phase release");
+	return 0;
+}
