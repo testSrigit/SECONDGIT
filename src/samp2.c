@@ -1,5 +1,11 @@
 int add(int a,int b)
 {
-	printf("Additional changes to fix the existing bug from Original..\n");
+	printf("Additional changes ...\n");
 	return a+b;
+}
+
+
+int sub(int a,int b)
+{
+	return a-b;
 }
