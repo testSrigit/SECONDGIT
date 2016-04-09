@@ -17,6 +17,6 @@ int main(void) {
 }
 int display()
 {
-	printf("This is the second phase release");
+	printf("This is the second phase release \n");
 	return 0;
 }
